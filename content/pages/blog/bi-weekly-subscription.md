@@ -1,13 +1,14 @@
 ---
 layout: PostLayout
-title: Bi-weekly subscription
+title: Bi-weekly subscription new
 date: '2021-06-28'
-excerpt: |-
-  This feature is the thing you were missing in your workflow, thank god we have it for you to use.
+excerpt: >-
+  This feature is the thing you were missing in your workflow, thank god we have
+  it for you to use.
 thumbImage:
   type: ImageBlock
-  url: https://source.unsplash.com/pRQCTeQTDwE/640x480
-  altText: Raw fish, spices, lemon
+  url: 'https://source.unsplash.com/pRQCTeQTDwE/640x480'
+  altText: 'Raw fish, spices, lemon'
 bottomSections:
   - type: CtaSection
     variant: variant-b
@@ -16,12 +17,13 @@ bottomSections:
     height: auto
     alignHoriz: left
     title: Let's do this
-    text: |-
-      The Stackbit theme is flexible and scalable to every need. It can manage any layout and any screen.
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
     actions:
       - type: Button
         label: Get Started
-        url: "https://www.stackbit.com/"
+        url: 'https://www.stackbit.com/'
         style: primary
 ---
 
